@@ -7,7 +7,7 @@
 
 
 
-## Assignment 2 [Live Link]()
+## Assignment 2 [Live Link](https://liveassignment02.netlify.app)
 
 -   Skills Gained in this project
     -   Learnt about Linear gradients and how to insert Background images with the help of background Url's.
@@ -18,5 +18,5 @@
 
 ## Time taken to finish this project
 
--   2 hour to complete it.
+-   Took 2 hours to complete it.
 
